@@ -1,0 +1,7 @@
+﻿ItemID,ItemName,ItemDesc,ItemQuality,ItemCapacity,ItemBuyPrice,ItemSellPrice,ItemIconPath,ItemPrefabPath,HP,MP
+20001,苹果,10个苹果可合成一个红瓶药水,White,5,3,10,ItemUI/OtherIcon/small_hp,Prefabs/RedPrefab,100,0
+20002,薄荷糖,10个薄荷糖可合成一个蓝瓶药水,White,5,2,10,ItemUI/OtherIcon/small_mp,Prefabs/RedPrefab,0,100
+20003,红瓶药水,两瓶红色药水可合成一个红药袋,White,1,50,50,ItemUI/OtherIcon/mid_hp,Prefabs/RedPrefab,1500,0
+20004,蓝瓶药水,两瓶蓝色药水可合成一个蓝药袋,White,1,50,50,ItemUI/OtherIcon/mid_mp,Prefabs/RedPrefab,0,1500
+20005,红药袋,一个红色的药袋,White,1,2,80,ItemUI/OtherIcon/big_hp,Prefabs/RedPrefab,4000,0
+20006,蓝药袋,一个蓝色的药袋,White,1,2,80,ItemUI/OtherIcon/big_mp,Prefabs/RedPrefab,0,4000

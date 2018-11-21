@@ -1,0 +1,2 @@
+﻿ItemID,ItemName,ItemDesc,ItemQuality,ItemCapacity,ItemBuyPrice,ItemSellPrice,ItemIconPath,ItemPrefabPath
+10001,书,Unity从入门到精通,White,5,2,1,ItemUI/OtherIcon/book,Prefabs/RedPrefab

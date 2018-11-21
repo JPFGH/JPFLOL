@@ -1,0 +1,5 @@
+﻿ItemID,ItemName,ItemDesc,ItemQuality,ItemCapacity,ItemBuyPrice,ItemSellPrice,ItemIconPath,ItemPrefabPath
+50001,铁,常见的矿物，4个铁可合成一个防御塔核心,White,2,2,50,ItemUI/OtherIcon/ingots,Prefabs/RedPrefab
+50002,碎石头,零散的小石头，6个碎石可合成一个铁,White,3,2,10,ItemUI/OtherIcon/stone,Prefabs/RedPrefab
+50003,钻石,珍贵的矿物,White,1,2,200,ItemUI/OtherIcon/diamonds,Prefabs/RedPrefab
+50004,防御塔核心,用于建造防御塔（靠近我方防御塔，按下普攻主键即可建造）,White,1,2,200,ItemUI/OtherIcon/tower,Prefabs/RedPrefab

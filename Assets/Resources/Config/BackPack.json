@@ -1,0 +1,70 @@
+[
+	{
+        "ItemID": 0,
+        "ItemName": "空空如也",
+        "ItemDesc": "暂无",
+        "ItemType": "Other",
+        "ItemQuality": "White",
+		"ItemCapacity":3,
+		"ItemBuyPrice": 2,
+        "ItemSellPrice": 1,
+        "ItemIconPath": "Textures/Item/item1",
+        "ItemPrefabPath": "Prefabs/RedPrefab"
+    },
+    {
+        "ItemID": 10001,
+        "ItemName": "书",
+        "ItemDesc": "Unity从入门到精通",
+        "ItemType": "Item",
+        "ItemQuality": "White",
+		"ItemCapacity":5,
+		"ItemBuyPrice": 2,
+        "ItemSellPrice": 1,
+        "ItemIconPath": "Sprites/Items/book",
+        "ItemPrefabPath": "Prefabs/RedPrefab"
+    },
+	{
+        "ItemID": 20001,
+        "ItemName": "苹果",
+        "ItemDesc": "鲜红欲滴的苹果，散发出阵阵清香",
+        "ItemType": "Consumable",
+        "ItemQuality": "White",
+		"ItemCapacity":5,
+		"ItemBuyPrice": 2,
+        "ItemSellPrice": 1,
+        "ItemIconPath": "Sprites/Items/apple",
+        "ItemPrefabPath": "Prefabs/RedPrefab",
+		"HP":100,
+		"MP":0
+    },
+	{
+        "ItemID": 30001,
+        "ItemName": "斧头",
+        "ItemDesc": "木柄铁斧，常见的武器",
+        "ItemType": "Equipment",
+        "ItemQuality": "White",
+		"ItemCapacity":1,
+		"ItemBuyPrice": 2,
+        "ItemSellPrice": 1,
+        "ItemIconPath": "Textures/Item/weapon1",
+        "ItemPrefabPath": "Prefabs/RedPrefab",
+		"EquipmentType":"Hand",
+		"Physique":0,
+		"Magic":0,
+		"Strength":99,
+		"Stamina":0,
+		"Agility":0
+    },
+	{
+        "ItemID": 50001,
+        "ItemName": "铁",
+        "ItemDesc": "普通的铁块，用于打造装备",
+        "ItemType": "Material",
+        "ItemQuality": "White",
+		"ItemCapacity":5,
+		"ItemBuyPrice": 2,
+        "ItemSellPrice": 1,
+        "ItemIconPath": "Sprites/Items/ingots",
+        "ItemPrefabPath": "Prefabs/RedPrefab"
+    }
+]

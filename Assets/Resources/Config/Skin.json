@@ -1,0 +1,119 @@
+﻿[
+    {
+        "UnitType": "SJLR_FGHS",
+        "ImagePath": "HeroPoster/SJLR_FGHS",
+		"PosterPath": "HeroPoster/Mirror/SJLR_FGHS_Mirror",
+        "heroName": "赏金猎人",
+        "skinName": "法国皇室",
+        "skinModelPath": "ShowPrefab/SJLR_FGHS",
+        "HeroType": "SJLR"
+    },
+    {
+        "UnitType": "SJLR_ND",
+        "ImagePath": "HeroPoster/SJLR_ND",
+		"PosterPath": "HeroPoster/Mirror/SJLR_ND_Mirror",
+        "heroName": "赏金猎人",
+        "skinName": "女帝",
+        "skinModelPath": "ShowPrefab/SJLR_ND",
+        "HeroType": "SJLR"
+    },
+    {
+        "UnitType": "SJLR_SDTGB",
+        "ImagePath": "HeroPoster/SJLR_SDTGB",
+		"PosterPath": "HeroPoster/Mirror/SJLR_SDTGB_Mirror",
+        "heroName": "赏金猎人",
+        "skinName": "圣诞糖果棒",
+        "skinModelPath": "ShowPrefab/SJLR_SDTGB",
+        "HeroType": "SJLR"
+    },
+    {
+        "UnitType": "SJLR_TGKH",
+        "ImagePath": "HeroPoster/SJLR_TGKH",
+		"PosterPath": "HeroPoster/Mirror/SJLR_TGKH_Mirror",
+        "heroName": "赏金猎人",
+        "skinName": "特工狂花",
+        "skinModelPath": "ShowPrefab/SJLR_TGKH",
+        "HeroType": "SJLR"
+    },
+    {
+        "UnitType": "SJLR_YCPD",
+        "ImagePath": "HeroPoster/SJLR_YCPD",
+		"PosterPath": "HeroPoster/Mirror/SJLR_YCPD_Mirror",
+        "heroName": "赏金猎人",
+        "skinName": "泳池派对",
+        "skinModelPath": "ShowPrefab/SJLR_YCPD",
+        "HeroType": "SJLR"
+    },
+    {
+        "UnitType": "PCNJ_BYJJ",
+        "ImagePath": "HeroPoster/PCNJ_BYJJ",
+		"PosterPath": "HeroPoster/Mirror/PCNJ_BYJJ_Mirror",
+        "heroName": "皮城女警",
+        "skinName": "冰原狙击",
+        "skinModelPath": "ShowPrefab/PCNJ_BYJJ",
+        "HeroType": "PCNJ"
+    },
+    {
+        "UnitType": "PCNJ_HYZAG",
+        "ImagePath": "HeroPoster/PCNJ_HYZAG",
+		"PosterPath": "HeroPoster/Mirror/PCNJ_HYZAG_Mirror",
+        "heroName": "皮城女警",
+        "skinName": "荒野治安官",
+        "skinModelPath": "ShowPrefab/PCNJ_HYZAG",
+        "HeroType": "PCNJ"
+    },
+    {
+        "UnitType": "PCNJ_NJJJ",
+        "ImagePath": "HeroPoster/PCNJ_NJJJ",
+		"PosterPath": "HeroPoster/Mirror/PCNJ_NJJJ_Mirror",
+        "heroName": "皮城女警",
+        "skinName": "女警狙击",
+        "skinModelPath": "ShowPrefab/PCNJ_NJJJ",
+        "HeroType": "PCNJ"
+    },
+    {
+        "UnitType": "PCNJ_TXJJS",
+        "ImagePath": "HeroPoster/PCNJ_TXJJS",
+		"PosterPath": "HeroPoster/Mirror/PCNJ_TXJJS_Mirror",
+        "heroName": "皮城女警",
+        "skinName": "铁血狙击手",
+        "skinModelPath": "ShowPrefab/PCNJ_TXJJS",
+        "HeroType": "PCNJ"
+    },
+    {
+        "UnitType": "PCNJ_YJYC",
+        "ImagePath": "HeroPoster/PCNJ_YJYC",
+		"PosterPath": "HeroPoster/Mirror/PCNJ_YJYC_Mirror",
+        "heroName": "皮城女警",
+        "skinName": "玉净夜叉",
+        "skinModelPath": "ShowPrefab/PCNJ_YJYC",
+        "HeroType": "PCNJ"
+    },
+    {
+        "UnitType": "HBSS_HAQS",
+        "ImagePath": "HeroPoster/HBSS_HAQS",
+		"PosterPath": "HeroPoster/Mirror/HBSS_HAQS_Mirror",
+        "heroName": "寒冰射手",
+        "skinName": "黑暗骑士",
+        "skinModelPath": "ShowPrefab/HBSS_HAQS",
+        "HeroType": "HBSS"
+    },
+    {
+        "UnitType": "HBSS_YGDX",
+        "ImagePath": "HeroPoster/HBSS_YGDX",
+		"PosterPath": "HeroPoster/Mirror/HBSS_YGDX_Mirror",
+        "heroName": "寒冰射手",
+        "skinName": "勇敢的心",
+        "skinModelPath": "ShowPrefab/HBSS_YGDX",
+        "HeroType": "HBSS"
+    },
+    {
+        "UnitType": "HBSS_ZJSS",
+        "ImagePath": "HeroPoster/HBSS_ZJSS",
+		"PosterPath": "HeroPoster/Mirror/HBSS_ZJSS_Mirror",
+        "heroName": "寒冰射手",
+        "skinName": "紫晶射手",
+        "skinModelPath": "ShowPrefab/HBSS_ZJSS",
+        "HeroType": "HBSS"
+    }
+]

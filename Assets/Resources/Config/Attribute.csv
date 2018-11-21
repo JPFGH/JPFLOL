@@ -1,0 +1,9 @@
+AttributeType,Level,HP_Max,MP_Max,attackNum,damageReduct,suckPercent,violentProbability,violentMul,defaultSpeed
+HBSS_Normal,15,3000,1000,300,0.1,0,0,2,3.5
+PCNJ_Normal,15,3000,1000,300,0.1,0,20,2,3.5
+SJLR_Normal,15,3000,1000,300,0.1,0,0,2,4
+Small,1,1500,1000,200,0,0,0,2,3.5
+HBSS_Big,30,5000,3000,500,0.3,0,0,2,3.5
+PCNJ_Big,30,5000,3000,500,0.3,0,20,2,3.5
+SJLR_Big,30,5000,3000,500,0.3,0,0,2,4
+Boss,99,7000,7000,800,0.5,0.3,30,2,3.5
